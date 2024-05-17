@@ -1,1 +1,2 @@
-Ini adalah file pertama saya
+Ini adalah file pertama saya,
+ini penting
